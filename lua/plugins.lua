@@ -90,3 +90,6 @@ vim.pack.add({"https://github.com/windwp/nvim-autopairs"})
 require('nvim-autopairs').setup({
   disable_filetype = { "TelescopePrompt" , "vim" },
 })
+
+vim.pack.add({"https://github.com/akinsho/toggleterm.nvim"})
+require("toggleterm").setup({shell = "pwsh.exe",})

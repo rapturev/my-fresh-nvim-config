@@ -8,3 +8,5 @@ vim.opt.winborder = "rounded"
 vim.opt.clipboard = "unnamedplus"
 
 vim.g.mapleader = " "
+
+
