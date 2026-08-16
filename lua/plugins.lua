@@ -2,13 +2,16 @@ vim.pack.add({"https://github.com/scottmckendry/cyberdream.nvim"})
 vim.pack.add({"https://github.com/ellisonleao/gruvbox.nvim"})
 vim.pack.add({"https://github.com/catppuccin/nvim"})
 vim.pack.add({"https://github.com/eldritch-theme/eldritch.nvim"})
+vim.pack.add({"https://github.com/miikanissi/modus-themes.nvim"})
 
 vim.pack.add({"https://github.com/mason-org/mason.nvim"})
 require('mason').setup()
 
 vim.pack.add({"https://github.com/nvim-lualine/lualine.nvim"})
 require('lualine').setup {
-	options = { theme  = "eldritch" },
+	options = { 
+		theme  = "modus_operandi",
+	},
 }
 
 vim.pack.add({
