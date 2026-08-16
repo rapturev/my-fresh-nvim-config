@@ -9,9 +9,17 @@
       "rev": "3def90c9eded09e5aae818983f14b5fe52b2034a",
       "src": "https://github.com/scottmckendry/cyberdream.nvim"
     },
+    "eldritch.nvim": {
+      "rev": "c9131a5a11f00a2f428f563a4eb2c4aeb680d963",
+      "src": "https://github.com/eldritch-theme/eldritch.nvim"
+    },
     "fzf-lua": {
       "rev": "657c1bbb7357c61e26a20d868b53a460b05c18c0",
       "src": "https://github.com/ibhagwan/fzf-lua"
+    },
+    "gruvbox.nvim": {
+      "rev": "154eb5ff5b96d0641307113fa385eaf0d36d9796",
+      "src": "https://github.com/ellisonleao/gruvbox.nvim"
     },
     "lualine.nvim": {
       "rev": "f5d2a8570f8b736ddb9bb4be504355bcd6e15ec8",
@@ -34,6 +42,10 @@
       "rev": "de740991c12411b663994b2860f1a4fd0937c130",
       "src": "https://github.com/MunifTanjim/nui.nvim"
     },
+    "nvim": {
+      "rev": "edefef779ab08ce1a4a404713e3012b0d202bd35",
+      "src": "https://github.com/catppuccin/nvim"
+    },
     "nvim-autopairs": {
       "rev": "59bce2eef357189c3305e25bc6dd2d138c1683f5",
       "src": "https://github.com/windwp/nvim-autopairs"
@@ -49,6 +61,10 @@
     "plenary.nvim": {
       "rev": "74b06c6c75e4eeb3108ec01852001636d85a932b",
       "src": "https://github.com/nvim-lua/plenary.nvim"
+    },
+    "south.nvim": {
+      "rev": "cade7e93a4f5b37415b1ded6ae61ac56edd900fd",
+      "src": "https://github.com/arnauKL/south.nvim"
     },
     "telescope.nvim": {
       "rev": "f7c673b8e46e8f233ff581d3624a517d33a7e264",
